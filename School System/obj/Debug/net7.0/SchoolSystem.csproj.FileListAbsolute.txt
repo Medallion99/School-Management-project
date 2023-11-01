@@ -1,0 +1,14 @@
+C:\Users\DECAGON\source\repos\School System\School System\bin\Debug\net7.0\SchoolSystem.exe
+C:\Users\DECAGON\source\repos\School System\School System\bin\Debug\net7.0\SchoolSystem.deps.json
+C:\Users\DECAGON\source\repos\School System\School System\bin\Debug\net7.0\SchoolSystem.runtimeconfig.json
+C:\Users\DECAGON\source\repos\School System\School System\bin\Debug\net7.0\SchoolSystem.dll
+C:\Users\DECAGON\source\repos\School System\School System\bin\Debug\net7.0\SchoolSystem.pdb
+C:\Users\DECAGON\source\repos\School System\School System\obj\Debug\net7.0\SchoolSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\source\repos\School System\School System\obj\Debug\net7.0\SchoolSystem.AssemblyInfoInputs.cache
+C:\Users\DECAGON\source\repos\School System\School System\obj\Debug\net7.0\SchoolSystem.AssemblyInfo.cs
+C:\Users\DECAGON\source\repos\School System\School System\obj\Debug\net7.0\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\source\repos\School System\School System\obj\Debug\net7.0\SchoolSystem.dll
+C:\Users\DECAGON\source\repos\School System\School System\obj\Debug\net7.0\refint\SchoolSystem.dll
+C:\Users\DECAGON\source\repos\School System\School System\obj\Debug\net7.0\SchoolSystem.pdb
+C:\Users\DECAGON\source\repos\School System\School System\obj\Debug\net7.0\SchoolSystem.genruntimeconfig.cache
+C:\Users\DECAGON\source\repos\School System\School System\obj\Debug\net7.0\ref\SchoolSystem.dll
